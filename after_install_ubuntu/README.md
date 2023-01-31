@@ -25,6 +25,11 @@
 
    - install dracular theme: [follow this link](https://draculatheme.com/gnome-terminal)
    - install zsh: [follow this link](https://www.youtube.com/watch?v=8rAYABZChkQ)
+   - when you want change configuration powerlevel10k using this cmd:
+
+   ```
+      p10k configure
+   ```
 
 5. Postman:
 
@@ -43,7 +48,7 @@
    [follow this link](https://github.com/nodesource/distributions/blob/master/README.md#debinstall), after that:
 
    ```
-       sudo npm install --global yarn
+      sudo npm install --global yarn
    ```
 
 9. Kubernetes:
